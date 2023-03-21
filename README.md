@@ -18,6 +18,9 @@
 
 > A Streamlit app that returns Spotify recommendations based on Artist/Song input.
 
+<p align="center">
+  <img alt="Spotify Recommender Screenshot" src="https://github.com/rhc-iv/py-cocktail-search/blob/main/scr_shot.png?raw=true" />
+</p>
 
 ## Usage
 - Open `app.py` in the editor/IDE of your choice.
