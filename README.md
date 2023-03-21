@@ -1,26 +1,28 @@
-<h1 align="center">Welcome to Streamlit Spotify Recommender 👋</h1>
-<p>
+<h1 align="center">🎧 Streamlit Spotify Recommender</h1>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/rhc\_iv" target="_blank">
-    <img alt="Twitter: rhc\_iv" src="https://img.shields.io/twitter/follow/rhc\_iv.svg?style=social" />
+
+  <a href="https://twitter.com/rhc_iv" target="_blank">
+    <img alt="Twitter: rhc\_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" />
   </a>
 </p>
 
+
 > A Streamlit app that returns Spotify recommendations based on Artist/Song input.
 
-### 🏠 [Homepage](https://github.com/rhc-iv/streamlit-spotify-recommender)
+### 🛋️ [Homepage](https://github.com/rhc-iv/streamlit-spotify-recommender)
 
 ## Usage
+- Open `app.py` in the editor/IDE of your choice.
+- Use `pip` to install dependencies/modules.
+- Run app by typing `streamlit run app.py` in your console (in the app directory).
 
-```sh
-Open `app.py` in the editor/IDE of your choice.
-```
 
-## Author
+## 👤 Author
 
-👤 **Robert H. Carr, IV**
+**Robert H. Carr, IV**
 
-* Twitter: [@rhc\_iv](https://twitter.com/rhc\_iv)
+* Twitter: [@rhc\_iv](https://twitter.com/rhc_iv)
 * Github: [@rhc-iv](https://github.com/rhc-iv)
 
 ## 🤝 Contributing
