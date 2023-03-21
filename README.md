@@ -7,10 +7,9 @@
   </a>
 </p>
 
+### 🛋️ [Homepage](https://github.com/rhc-iv/streamlit-spotify-recommender)
 
 > A Streamlit app that returns Spotify recommendations based on Artist/Song input.
-
-### 🛋️ [Homepage](https://github.com/rhc-iv/streamlit-spotify-recommender)
 
 ## Usage
 - Open `app.py` in the editor/IDE of your choice.
